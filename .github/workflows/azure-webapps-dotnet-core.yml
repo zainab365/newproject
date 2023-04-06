@@ -156,7 +156,7 @@ jobs:
       - name: Login job
         uses: azure/login@v1
         with:
-           creds: ${{ secrets.ZARA_CRED }}
+           creds: ${{ secrets.ZARA_AZURE_CRED }}
           
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -286,7 +286,7 @@ jobs:
       - name: Login job
         uses: azure/login@v1
         with:
-           creds: ${{ secrets.ZARA_CRED }}
+           creds: ${{ secrets.ZARA_AZURE_CRED }}
           
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
