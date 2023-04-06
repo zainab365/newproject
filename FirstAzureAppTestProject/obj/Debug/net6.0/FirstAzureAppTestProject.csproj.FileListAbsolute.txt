@@ -426,3 +426,6 @@ C:\Users\Beenish Raza\Desktop\MyFirstAzureWebApp\FirstAzureAppTestProject\obj\De
 C:\Users\Beenish Raza\Desktop\MyFirstAzureWebApp\FirstAzureAppTestProject\obj\Debug\net6.0\FirstAzureAppTestProject.pdb
 C:\Users\Beenish Raza\Desktop\MyFirstAzureWebApp\FirstAzureAppTestProject\obj\Debug\net6.0\FirstAzureAppTestProject.genruntimeconfig.cache
 C:\Users\Beenish Raza\Desktop\MyFirstAzureWebApp\FirstAzureAppTestProject\obj\Debug\net6.0\ref\FirstAzureAppTestProject.dll
+C:\Users\hp\Downloads\MyFirstAzureWebApp-main (1)\MyFirstAzureWebApp-main\FirstAzureAppTestProject\obj\Debug\net6.0\FirstAzureAppTestProject.dll
+C:\Users\hp\Downloads\MyFirstAzureWebApp-main (1)\MyFirstAzureWebApp-main\FirstAzureAppTestProject\obj\Debug\net6.0\refint\FirstAzureAppTestProject.dll
+C:\Users\hp\Downloads\MyFirstAzureWebApp-main (1)\MyFirstAzureWebApp-main\FirstAzureAppTestProject\obj\Debug\net6.0\FirstAzureAppTestProject.pdb

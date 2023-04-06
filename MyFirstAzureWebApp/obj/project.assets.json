@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\newproject\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
       "projectName": "MyFirstAzureWebApp",
-      "projectPath": "C:\\Users\\hp\\Source\\Repos\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\newproject\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Source\\Repos\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\newproject\\MyFirstAzureWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

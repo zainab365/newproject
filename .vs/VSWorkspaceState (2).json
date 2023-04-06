@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\FirstAzureAppTestProject",
     "\\MyFirstAzureWebApp"
   ],
+  "SelectedNode": "\\FirstAzureAppTestProject\\IndexModelTests.cs",
   "PreviewInSolutionExplorer": false
 }
