@@ -20,7 +20,7 @@
 name: Build and deploy ASP.Net Core app to an Azure Web App
 
 env:
- # AZURE_WEBAPP_NAME_ZAINAB: zainab-webapp-v1    # set this to the name of your Azure Web App
+  # set this to the name of your Azure Web App
   AZURE_WEBAPP_NAME_ZARA_ZAINAB: zaraapp
   AZURE_WEBAPP_NAME_STG: stagingwebappdevopsmsse
   AZURE_WEBAPP_NAME_PROD: productiondevopsmsse
