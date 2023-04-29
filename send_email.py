@@ -7,7 +7,7 @@ smtp_server = "smtp.gmail.com"
 USERNAME = os.environ.get('USER_EMAIL')
 PASSWORD = os.environ.get('USER_PASSWORD')
 message ="""/
-SUBJECT: Github Email Daily Report
+subject: Github Email Daily Report
 
 This is Github daily email reort...
 """
