@@ -156,14 +156,14 @@ jobs:
       - name: Login job
         uses: azure/login@v1
         with:
-           creds: ${{ secrets.ZARA_AZURE_CRED }}
+           creds: ${{ secrets.ZAINAB_AZURE_CRED }}
           
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: ${{ env.AZURE_WEBAPP_NAME_ZARA }}
-          publish-profile: ${{ secrets.ZARA_PROFILE }}
+          app-name: ${{ env.AZURE_WEBAPP_NAME_ZAINAB }}
+          publish-profile: ${{ secrets.ZAINAB_AZURE_PUBLISH_PROFILE }}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
   
   build_STG:
@@ -286,12 +286,12 @@ jobs:
       - name: Login job
         uses: azure/login@v1
         with:
-           creds: ${{ secrets.ZARA_AZURE_CRED }}
+           creds: ${{ secrets.ZAINAB_AZURE_CRED }}
           
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: ${{ env.AZURE_WEBAPP_NAME_ZARA }}
-          publish-profile: ${{ secrets.ZARA_PROFILE }}
+          app-name: ${{ env.AZURE_WEBAPP_NAME_ZAINAB }}
+          publish-profile: ${{ secrets.ZAINAB_AZURE_PUBLISH_PROFILE }}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
